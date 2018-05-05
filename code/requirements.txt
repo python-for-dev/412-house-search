@@ -8,3 +8,4 @@ pip install xlsxwriter
 pip install urllib.parse
 pip install BeautifulSoup
 pip install bs4
+pip instal openpyxl
