@@ -18,9 +18,9 @@ Our service has been designed primarily using the Model-View-Controller(MVC) fra
 
 1. src folder - Given below is a section that shows what files are kept and why are they important.
   
-      i. apartments_urls.csv - This file contains all the URL links of Apartment.com along with the maximum and minimum rent for the properties that appear on the link. Without these files the program will not be able to source data from the main rental website and as a result, either this program will fail or it will try to read from the cached files, apartments_raw.xlsx.
+     i. apartments_urls.csv - This file contains all the URL links of Apartment.com along with the maximum and minimum rent for the properties that appear on the link. Without these files the program will not be able to source data from the main rental website and as a result, either this program will fail or it will try to read from the cached files, apartments_raw.xlsx.
       
-     ii. hotpads_urls.csv - This file contains all the URL links of Apartment.com along with the maximum and minimum rent for the properties that appear on the link. Without these files the program will not be able to source data from the main rental website and as a result, either this program will fail or it will try to read from the cached files, hotpads_raw.xlsx.
+     ii. hotpads_urls.csv - This file contains all the URL links of Apartment.com along with the maximum and minimum rent for the properties that appear on the link. Without these files the program will not be able to source data from the main rental website and as a result, either this program will fail or it will try to read from the cached file (hotpads_raw.xlsx).
      
     iii. final_data_workbook.xlsx - This file contains a compilation of all the source data raw and in cleaned format and also the datasets merged together and its cleaned version.
    
@@ -32,7 +32,7 @@ Our service has been designed primarily using the Model-View-Controller(MVC) fra
 2. code 
 
      i. Search.ipynb - the main code in Jupyter Python Notebook
-    ii. requriements.txt-  Before running all the code, please install all the packages in the requirments.txt and only then continue to run the progran.
+     ii. requriements.txt-  Before running all the code, please install all the packages in the requirments.txt and only then continue to run the progran.
  
 
 # Important steps before running the code
