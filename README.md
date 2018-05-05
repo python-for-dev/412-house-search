@@ -13,22 +13,21 @@ Our service has been designed primarily using the Model-View-Controller(MVC) fra
 
 3. Data Collection Module
 
-# Important Features
-
-
-
-
-
-
-# Next Steps
-
-
-
-
-
-
 
 # Project Folder Description
+
+
+
+
+# Important steps before running the code
+
+
+
+
+
+
+
+
 
 
 
