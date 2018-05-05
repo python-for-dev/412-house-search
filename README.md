@@ -5,23 +5,38 @@ The 412 House Seach is an Pittsburgh based aggregator service aimed to create an
 
 # Program Modules
 
-Our service has been designed primarily using the Model-View-Controller(MVC) framework in Python enables us to keep our code clean and modular. In future extending support to multiple rental platforms is also easy.
+Our service has been designed primarily using the Model-View-Controller(MVC) framework in Python enables us to keep our code clean and modular. This also makes our code extensible in the future which means addditional value add-ons can be built on top of our core service. Our code consists of the following modules based on the nature of the operation.
 
-1. Rental Computations
+1. Rent Analsyis Module
 
-2. Display
+2. Display Module
 
-3. Controller
+3. Data Collection Module
+
+# Important Features
+
+
+
+
 
 
 # Next Steps
 
-Our next step includes:
 
-1. Creating microservice architecture
 
-2. Feedback and recommendation system
 
-3. Include non-conventional platofrms like Facebook and Airbnb in our aggregation.
+
+
+
+# Project Folder Description
+
+
+
+
+
+
+
+
+
 
 
