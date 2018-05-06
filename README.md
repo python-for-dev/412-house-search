@@ -45,7 +45,7 @@ Our service has been designed primarily using the Model-View-Controller(MVC) fra
 
 4. The webistes have a per day usage limit, so after making 300 requests, the server will automatically block you. To overcome this hurdle, we cached all the online data into offline apartments_raw.xlsx files, when the website doesnt let you connect then the program automatically reads the data from the files that are kept in the src folder.
         
-5. The Google Web API that is being used to get the distance and duration to CMU alos has a 100 requests per day limit. Rerunning this code multiple times can result in a failure.
+5. The Google Web API that is being used to get the distance and duration to CMU also has a 100 requests per day limit. Rerunning this code multiple times can result in a failure.
         
 6. All the files kept under the src folder is necessary to run the program
 
